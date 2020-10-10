@@ -1,0 +1,40 @@
+Data Structure:-
+----------------
+	- list------------------------------------> [] One dimension
+	- tuple
+	- set
+
+	- dict------------------------------------>[][] Two or Multidimension
+
+
+
+list------> []
+	- its allows duplicates.
+	- its always maintain the inserting order.
+	- mutable - changable - modify existing values in list
+
+tuple----> ()
+	- its allows duplicates.
+	- its always maintain the inserting order.
+	- immutable - can't change
+
+set------> {}
+	- its allows unique values only
+	- its doesn't maintain the order.
+
+dict-----> {}
+
+
+
+	china -> A001 -> 6.30 AM	china -> A001 -> 6.30 PM		
+		A1 - gopi			A1 - Bajai
+		A2 - babu			A2 - Sarath
+		A3 - divya			A3 - Naveen
+
+
+
+
+
+
+
+
